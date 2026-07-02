@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/high.png</file>
+        <file>image/logosmall.ico</file>
+        <file>image/luminance1.png</file>
+        <file>image/luminance2.png</file>
+        <file>image/luminance3.png</file>
+        <file>image/luminance4.png</file>
+        <file>image/m.png</file>
+        <file>image/mode 4.png</file>
+        <file>image/mode1.png</file>
+        <file>image/mode2.png</file>
+        <file>image/mode3.png</file>
+        <file>image/shakeoff.png</file>
+        <file>image/shakeon.png</file>
+        <file>image/wide.png</file>
+        <file>image/y.png</file>
+        <file>image/Batt0.png</file>
+        <file>image/Batt1.png</file>
+        <file>image/Batt2.png</file>
+        <file>image/Batt3.png</file>
+        <file>image/Batt4.png</file>
+    </qresource>
+</RCC>
